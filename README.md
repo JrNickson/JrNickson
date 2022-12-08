@@ -8,4 +8,6 @@
 * ***Gulp :hourglass_flowing_sand:***
 
 
-## ***Here I will post my work 	:floppy_disk:***
+## ***:floppy_disk: Here I will post my work :point_right: [Profile](https://github.com/JrNickson)***
+### ***:anchor: Link to my first page :point_right: [Check](https://jrnickson.github.io/FirstWork/)***
+
