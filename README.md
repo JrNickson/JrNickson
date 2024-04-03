@@ -3,9 +3,9 @@
 * ***HTML5 :heavy_check_mark:***
 * ***CSS3 :heavy_check_mark:***
 * ***SCSS/SASS :heavy_check_mark:***
-* ***JavaScript :hourglass_flowing_sand:***
-* ***Git :hourglass_flowing_sand:***
-* ***Gulp :hourglass_flowing_sand:***
+* ***JavaScript :heavy_check_mark:***
+
+
 
 
 ## ***:floppy_disk: Here I will post my work :point_right: [Profile](https://github.com/JrNickson)***
