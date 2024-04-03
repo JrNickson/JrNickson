@@ -4,6 +4,9 @@
 * ***CSS3 :heavy_check_mark:***
 * ***SCSS/SASS :heavy_check_mark:***
 * ***JavaScript :heavy_check_mark:***
+* ***MVC/OOP :heavy_check_mark:***
+* ***Webpack :heavy_check_mark:***
+* ***ReactJS :heavy_check_mark:***
 
 
 
